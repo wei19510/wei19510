@@ -1,4 +1,8 @@
 ### Hi there 👋
+I'm a master student from National Taiwan University, Department of fishery science. 
+I'm currently working on a project about survey the coral (Stylophora pistillata) population genetic structure in Taiwan Island and Guishan Island.
+Also, I'm interesting in marine biology, diving, fishing and film photography.
+
 
 <!--
 **wei19510/wei19510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
